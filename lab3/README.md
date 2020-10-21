@@ -10,7 +10,7 @@ $ make
 $ make clean
 
 ### Usage
-./mlab3 -h
-./mlab3 --help
-./mlab3 -c config_file.conf
-./mlab3 --config conf.conf
+* $ ./mlab3 -h
+* $ ./mlab3 --help
+* $ ./mlab3 -c config_file.conf
+* $ ./mlab3 --config conf.conf
